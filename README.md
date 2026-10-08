@@ -199,7 +199,7 @@ If you reference this work or presentation, please cite:
 
 ```bibtex
 @misc{vujja2026fusmambasr,
-  author       = {Vujja Punith Sai and Dr. Viswanath},
+  author       = {Vujja Punith Sai and  Arun pv },
   title        = {Adaptive Multi-Modal Satellite Image Super-Resolution Using Hybrid Deep Learning (FusMamba-SR v2)},
   institution  = {Indian Institute of Information Technology, Sri City},
   year         = {2026}
